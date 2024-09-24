@@ -265,6 +265,7 @@ nav a.active{
 
   .wrapper .search i{
     font-size: 1.4rem;
+
   }
 
 }
@@ -288,8 +289,9 @@ nav a.active{
     
     }
     .res-search i{
-        font-size: 1.8rem;
-        text-align: center;
+        font-size: 1.6rem;
+        justify-content: center;
+        align-items: center;
     }
 
   } 
@@ -300,7 +302,9 @@ nav a.active{
   } 
 
   .res-search i{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    justify-content: center;
+    align-items: center;
   }
 
   .res-logo{
