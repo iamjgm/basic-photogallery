@@ -11,6 +11,11 @@ body{
     background-color:  #161a1f ;
 }
 
+section .title{
+        font-size: 3rem;
+        font-weight: 1100;
+}
+
 /* Navbar */
 
 nav{
@@ -175,9 +180,10 @@ nav a.active{
     font-size: 1.3rem;
     font-weight: bold;
     outline: none;
-    border: 1px solid white;
+    border: 1px solid rgb(90, 90, 90);
     border-radius: 20px 0 0 20px ;
     height: 100%;
+    background-color: #161a1f;
 }
 
 .res-search i{
@@ -190,7 +196,7 @@ nav a.active{
     border-radius:0 20px 20px 0;
     color: #b7734b ;
     font-size: 1.4rem;
-    border: 1px solid white;
+    border: 1px solid rgb(90, 90, 90);
 }
 
 /* Section Start */
